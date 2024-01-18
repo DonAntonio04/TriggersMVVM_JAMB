@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\bin\Debug\netstandard2.0\TriggersMVVM_JAMB.deps.json
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\bin\Debug\netstandard2.0\TriggersMVVM_JAMB.dll
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\bin\Debug\netstandard2.0\ref\TriggersMVVM_JAMB.dll
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\bin\Debug\netstandard2.0\TriggersMVVM_JAMB.pdb
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\obj\Debug\netstandard2.0\TriggersMVVM_JAMB.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\obj\Debug\netstandard2.0\TriggersMVVM_JAMB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\obj\Debug\netstandard2.0\TriggersMVVM_JAMB.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\obj\Debug\netstandard2.0\TriggersMVVM_JAMB.AssemblyInfo.cs
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\obj\Debug\netstandard2.0\TriggersMVVM_JAMB.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\obj\Debug\netstandard2.0\TriggersMVVM_JAMB.dll
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\obj\Debug\netstandard2.0\refint\TriggersMVVM_JAMB.dll
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\obj\Debug\netstandard2.0\TriggersMVVM_JAMB.pdb
+C:\Users\hp\Desktop\Ejercios_Miguel\TriggersMVVM_JAMB\TriggersMVVM_JAMB\TriggersMVVM_JAMB\obj\Debug\netstandard2.0\Vistas\PaginaCategoria.xaml.g.cs
